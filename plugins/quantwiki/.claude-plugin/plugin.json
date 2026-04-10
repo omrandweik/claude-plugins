@@ -1,0 +1,7 @@
+{
+  "name": "quantwiki",
+  "description": "QuantWiki knowledge base skills for quantitative finance interview prep — ingest sources, query wiki, lint, expand gaps, capture insights, interview drill, and maintenance",
+  "author": {
+    "name": "Omran Dweik"
+  }
+}
