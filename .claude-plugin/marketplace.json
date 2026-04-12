@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "omran-plugins",
+  "description": "Personal Claude Code plugins",
+  "owner": {
+    "name": "Omran Dweik"
+  },
+  "plugins": [
+    {
+      "name": "quantwiki",
+      "description": "QuantWiki knowledge base skills for quantitative finance interview prep — ingest sources, query wiki, lint, expand gaps, capture insights, interview drill, and maintenance",
+      "author": {
+        "name": "Omran Dweik"
+      },
+      "source": "./plugins/quantwiki",
+      "category": "productivity"
+    }
+  ]
+}

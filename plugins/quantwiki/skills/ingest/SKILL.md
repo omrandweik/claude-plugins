@@ -96,6 +96,7 @@ Automatically classify ingested sources and tag them:
 - Prefer updating existing pages over creating near-duplicates
 - Target: 5-15 pages touched per source document
 - Always update `wiki/index.md` and append to `log.md`
+- **Obsidian compatibility:** Always use `[[page-name]]` wikilink syntax (never markdown links). Add `aliases:` in frontmatter for common alternate names. Use block-style YAML tag lists. Follow the tag taxonomy in CLAUDE.md (category + relevance + confidence + staleness + 1-3 domain tags).
 
 ## Examples
 
